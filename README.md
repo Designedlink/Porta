@@ -1,7 +1,7 @@
 ![Portafolio III periodo](https://user-images.githubusercontent.com/79681687/128428648-bdd674eb-3cba-4d42-b909-e6dbcaecf906.png)
 <h1>Portafolio III periodo 2021</h1>
     
-    <ul><h2>Anteportada</h2></ul>
+   <h1>Anteportada</h1>
 <li>Colegio Santa Catalina Labouré</li>
 <li>Nombre: Hannah Mijangos</li>
 <li>Grado: Bachillerato en Diseño Gráfico</li>
