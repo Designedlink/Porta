@@ -8,8 +8,8 @@
 <li>Materia: Diseño Computarizado</li>
 <li>Profesor: Jossue Emmanuel Fuentes</li>
 
-  <h1>Indice</h1>
-    <LI>Header</LI>
+<h1>Indice</h1>
+<LI>Header</LI>
 <li>Tipos de etiquetas -¿Que es Css y Html?
 <Ul><li>Estructura de etiquetas
 </li></Ul> </li>
